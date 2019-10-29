@@ -1,0 +1,6 @@
+﻿  Server.cpp
+d:\subject\bpsp\lab3\server\server.cpp(1): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\subject\bpsp\lab3\server\server.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\subject\bpsp\lab3\server\server.cpp(3): note: использование предварительно скомпилированного заголовка
+d:\subject\bpsp\lab3\server\server.cpp(23): warning C4101: cS: неиспользованная локальная переменная
+  Server.vcxproj -> D:\Subject\BPSP\Lab3\Server\Debug\Server.exe
