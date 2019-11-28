@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Error.cpp
+  Server.cpp
+d:\subject\bpsp\lab6\server\server.cpp(1): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\subject\bpsp\lab6\server\server.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\subject\bpsp\lab6\server\server.cpp(3): note: использование предварительно скомпилированного заголовка
+d:\subject\bpsp\lab6\server\server.cpp(15): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Server.vcxproj -> D:\Subject\BPSP\Lab6\Server\Debug\Server.exe
