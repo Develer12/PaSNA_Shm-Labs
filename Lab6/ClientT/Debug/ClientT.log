@@ -1,0 +1,3 @@
+﻿  ClientT.cpp
+d:\subject\bpsp\lab6\clientt\clientt.cpp(75): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ClientT.vcxproj -> D:\Subject\BPSP\Lab6\Server\Debug\ClientT.exe
